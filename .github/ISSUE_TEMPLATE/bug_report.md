@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a defect in a font
+about: Report a defect in this font
 title: ''
 labels: ''
 assignees: ''
